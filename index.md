@@ -1,7 +1,7 @@
 Data Mining
 ===
 
-Data Mining 에 대한 개인 공부 결과물입니다.
+Data Mining 에 대한 개인 공부 결과물입니다
 
 
 DataMining이란 ?
